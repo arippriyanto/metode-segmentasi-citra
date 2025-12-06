@@ -1,0 +1,2 @@
+# metode-segmentasi-citra
+tugas
